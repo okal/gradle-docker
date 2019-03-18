@@ -6,7 +6,7 @@ annoyances surrounding Unix permissions¹², making it especially painful
 
 This alternative image basically riffs off the original (credit to Keegan Witt³), removing any
 ownership assignments from the Dockerfile, but otherwise leaving it intact. It also only supports
-JDK 8, because that's all I care about. If you care about a different JDK, please file a PR.
+JDK 8, because that's all I care about. If you care about a different JDK version, please file a PR.
 
 
 ## References
